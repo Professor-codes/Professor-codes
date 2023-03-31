@@ -56,9 +56,20 @@
 <br>
 <br>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C698%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
+
+### Stats
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=tokyonight)
+
+### 🕹️ My contributions! Whose snake is this!? 
+![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
+
+![Profile views](https://gpvc.arturio.dev/Professor-codes)
+[![GitHub followers](https://img.shields.io/github/followers/Professor-codes.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/codergirl-al?tab=followers)
+
+#
+
+![footer](https://user-images.githubusercontent.com/126326997/229107289-d726623a-cc0d-4145-a494-bdb44a6d3854.jpg)
 
 
 
