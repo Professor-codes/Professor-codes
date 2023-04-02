@@ -7,7 +7,7 @@
 - Arduino and AI (on my free time)
 
 ### 🛠 Programming languages and technologies:
-![Top Languages](https://camo.githubusercontent.com/36951382938e8266c248374eed0057b25f9d9111102c49504db00c1d6b5260e2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a6179616e74476f656c30303126746578745f636f6c6f723d4646464646462662675f636f6c6f723d303030303030267469746c655f636f6c6f723d393462346134266c616e67735f636f756e743d3135266c61796f75743d636f6d7061637426686964655f626f726465723d74727565)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/sahil-sum-265069269/">LinkedIn</a>
@@ -51,15 +51,16 @@
 - 🌎 Learning foreign languages > English, German
 <br>
 
-<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-<strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-<br>
+### 📈 WakaTime Stats
 <br>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
+<br>
+<br>
 
-### Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=tokyonight)
+### 🔖 Stats
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=midnight-purple)
+
 
 ### 🕹️ My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
