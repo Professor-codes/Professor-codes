@@ -67,7 +67,7 @@
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=midnight-purple)
 
 
-### 🕹️ My contributions! Whose snake is this!?
+### 🕹️ My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
 ![Profile views](https://gpvc.arturio.dev/Professor-codes)
