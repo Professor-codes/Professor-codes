@@ -7,7 +7,9 @@
 - Arduino and AI (on my free time)
 
 ### 🛠 Programming languages and technologies:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
+
+
 
 
 ### 🦾 Documenting my journey:
