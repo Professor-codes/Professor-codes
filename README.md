@@ -17,7 +17,6 @@
 - <a href="https://codepen.io/Professor-codes">Codepen</a>
 
 
-
 <br><h2 align="center"> :hammer_and_wrench: Languages and Tools </h2><br> 
 
 <div align="center">
@@ -58,7 +57,7 @@
 ### 📈 WakaTime Stats
 <br>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-purple)
 <br>
 <br>
 
