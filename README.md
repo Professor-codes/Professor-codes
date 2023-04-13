@@ -1,4 +1,4 @@
-<h2> Hello  &lt;friend/&gt; 🚀 </h2>
+<h2> Hello  &lt;world/&gt; 🚀 </h2>
 <h6>I am Sahil, a 20 year old tech freak.</h6>
 
 ### 🤓 Current plans and projects I am working on:
