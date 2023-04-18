@@ -13,7 +13,7 @@
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/sahil-sum-265069269/">LinkedIn</a>
-- <a href="https://www.instagram.com/sahiilll.0x">Instagram</a>
+- <a href="https://www.instagram.com/professor.code/">Instagram</a>
 - <a href="https://github.com/Professor-codes">GitHub</a>
 - <a href="https://codepen.io/Professor-codes">Codepen</a>
 
