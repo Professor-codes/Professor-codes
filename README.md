@@ -7,8 +7,7 @@
 - Arduino and AI (on my free time)
 
 ### 🛠 Programming languages and technologies:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
 
 
 
@@ -65,7 +64,7 @@
 <br>
 
 ### 🔖 Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=midnight-purple)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professor-codes&show_icons=true&theme=midnight-purple)
 
 
 ### 🕹️ My contributions! Whose snake is this!? 
