@@ -74,7 +74,8 @@
 
 <!--![](https://komarev.com/ghpvc/?username=Professor-codes&color=blueviolet)-->
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<Professor-codes>)
+[![GitHub Views](https://komarev.com/ghpvc/?username=Professor-codes&color=FAC151)][1]
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Professor-codes.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Professor-codes?tab=followers)
