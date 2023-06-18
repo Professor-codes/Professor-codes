@@ -70,7 +70,7 @@
 ### 🕹️ My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
-![](https://komarev.com/ghpvc/?username=Professor-codes&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Professor-codes&style=flat&color=blueviolet)
 
 
 
