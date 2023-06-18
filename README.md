@@ -72,7 +72,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Professor-codes)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Professor-codes.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Professor-codes?tab=followers)
