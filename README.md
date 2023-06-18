@@ -22,7 +22,7 @@
 <p align ="center">
   
   <a href="https://wa.me/6355658206" role="whatsapp">
-  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=black&color=red" />
   </a>
 
   <a href="https://github.com/Professor-codes/" target="_blank">
