@@ -72,6 +72,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Professor-codes)
 
+![](https://komarev.com/ghpvc/?username=Professor-codes&color=green)
+
 
 
 
