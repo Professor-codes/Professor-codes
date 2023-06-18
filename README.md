@@ -18,6 +18,13 @@
 - <a href="https://codepen.io/Professor-codes">Codepen</a>
 
 
+<p align ="center">
+  
+  <a href="https://wa.me/6355658206" role="whatsapp">
+  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
 <br><h2 align="center"> :hammer_and_wrench: Languages and Tools </h2><br> 
 
 <div align="center">
