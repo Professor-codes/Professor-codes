@@ -1,5 +1,5 @@
 <h2> Hello  &lt;friend/&gt; 🚀 </h2>
-<h6>I am Sahil, a 20 year old tech freak.</h6>
+<h6>I am Sahil, a 21 year old tech freak.</h6>
 
 ### 🤓 Current plans and projects I am working on:
 - Masco 3
@@ -12,7 +12,6 @@
 
 
 ### 🦾 Documenting my journey:
-- <a href="https://www.linkedin.com/in/sahil-sum-265069269/">LinkedIn</a>
 - <a href="https://www.instagram.com/professor.code/">Instagram</a>
 - <a href="https://github.com/Professor-codes">GitHub</a>
 - <a href="https://codepen.io/Professor-codes">Codepen</a>
