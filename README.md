@@ -2,7 +2,7 @@
 <h6>I am Sahil, a 21 year old tech freak.</h6>
 
 ### 🤓 Current plans and projects I am working on:
-- AutoFlax and Globviz
+- AutoFlax and Amara-Globviz
 - Web Development and e-commerce projects
 - Arduino and AI (on my free time)
 
