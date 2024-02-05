@@ -1,14 +1,14 @@
-<h2> Hello  &lt;World/&gt; 🚀 </h2>
-<h6>I am Sahil, a 21 year old tech freak.</h6>
+<h1> Hello  &lt;World /&gt; 🚀 </h1>
 
-### 🤓 Current plans and projects I am working on:
+<h6>Sahil, a 21 year old tech freak.</h6>
+
+### 🧑🏻‍💻 Current plans and projects I am working on:
 - AutoFlax and Amara-Globviz
 - Web Development and e-commerce projects
 - Arduino and AI (on my free time)
 
-### 🛠 Programming languages and technologies:
+### 🕹️ Programming languages and technologies:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
-
 
 
 ### 🦾 Documenting my journey:
@@ -75,23 +75,23 @@
 
 </div>
 
-### 📌 Hobbies
+### ⚡ Hobbies
 - 📒 Reading books
 - 🌎 Learning foreign languages > English, German
 <br>
 
-### 📈 WakaTime Stats
+### 📊 WakaTime Stats
 <br>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-purple)
 <br>
 <br>
 
-### 🔖 Stats
+### 📑 Stats
 ![Sahil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Professor-codes&show_icons=true&theme=midnight-purple)
  
 
-### 🕹️ My contributions! Whose snake is this!? 
+### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
 
