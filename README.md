@@ -106,6 +106,11 @@
 ### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
+## GitHub Profile Trophy ⭕
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Professor-codes&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
 <details>
   <summary>Profile Views 🔎</summary>
   <br/>
