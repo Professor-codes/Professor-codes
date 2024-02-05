@@ -43,9 +43,6 @@
 <br><h2 align="center"> Languages and Tools ⚙️ </h2><br> 
 
 
-
-
-
 <div align="center">
     <span align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -75,21 +72,6 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
     </span>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
