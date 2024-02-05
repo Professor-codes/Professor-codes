@@ -123,11 +123,17 @@
 ### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Professor-codes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
+</details>
 
-
-![](https://komarev.com/ghpvc/?username=Professor-codes&style=for-the-badge&color=blueviolet)
-
-[![GitHub followers](https://img.shields.io/github/followers/Professor-codes.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Professor-codes?tab=followers)
+<details>
+  <summary>Follow 📌</summary>
+  <br/>
+  <img src="https://img.shields.io/github/followers/Professor-codes.svg?style=social&label=Follow&maxAge=2592000">
+</details>
 
 #
 
