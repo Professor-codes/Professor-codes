@@ -2,10 +2,12 @@
 
 <h6>Sahil, a 21 year old tech freak.</h6>
 
+
 ### 🧑🏻‍💻 Current plans and projects I am working on:
 - AutoFlax and Amara-Globviz
 - Web Development and e-commerce projects
 - Arduino and AI (on my free time)
+
 
 ### 🕹️ Programming languages and technologies:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
@@ -15,20 +17,16 @@
 - <a href="https://www.instagram.com/professor.code/">Instagram</a>
 - <a href="https://github.com/Professor-codes">GitHub</a>
 - <a href="https://codepen.io/Professor-codes">Codepen</a>
-
 <br>
 
-<p align ="center">
-  
-  <a href="https://wa.me/6355658206" role="whatsapp">
-  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white&color=blueviolet" />
-  </a>
 
+<p align ="center">
+  <a href="https://wa.me/6355658206" role="whatsapp">
+  	<img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white&color=blueviolet" />
+  </a>
+	
   <a href="https://github.com/Professor-codes/" target="_blank">
-    <img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-    />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   
   
@@ -42,7 +40,56 @@
 
 
 
-<br><h2 align="center"> :hammer_and_wrench: Languages and Tools </h2><br> 
+<br><h2 align="center"> Languages and Tools ⚙️ </h2><br> 
+
+
+
+
+
+<div align="center">
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+    </span>
+    <span align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+    </span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
