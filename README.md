@@ -18,12 +18,15 @@
 <p align ="center">
   <a href="https://wa.me/6355658206" role="whatsapp">
   	<img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white&color=blueviolet" />
-  </a>	
+  </a>
   <a href="https://github.com/Professor-codes/" target="_blank">
     	<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://codepen.io/Professor-codes/" target="_blank">
 	<img alt="Codepen" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Professor_cods" role="twitter">
+  	<img src="https://img.shields.io/badge/-twitter-14a800?style=for-the-badge&logo=twitter&logoColor=white&color=blueviolet" />
   </a>
 </p>
 
