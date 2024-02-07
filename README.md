@@ -10,11 +10,6 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
 
 ### 🦾 Documenting my journey:
-- <a href="https://www.instagram.com/professor.code/">Instagram</a>
-- <a href="https://github.com/Professor-codes">GitHub</a>
-- <a href="https://codepen.io/Professor-codes">Codepen</a>
-<br>
-
 <p align ="center">
   <a href="https://wa.me/6355658206" role="whatsapp">
   	<img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white&color=blueviolet" />
