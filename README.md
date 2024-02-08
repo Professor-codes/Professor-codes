@@ -1,31 +1,46 @@
 <h1> Hello  &lt;World /&gt; 🚀 </h1>
+
 <h6>{ Sahil } => ( a 21 year old tech freak. )</h6>
 
-### 🧑🏻‍💻 Current plans and projects I am working on:
+### 🌱 Current plans and projects I am working on:
 - AutoFlax and Amara-Globviz
-- Web Development and e-commerce projects
+- Web Development and e-commerce projects 
 - Arduino and AI (on my free time)
 
-### 🕹️ Programming languages and technologies:
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professor-codes&layout=compact&theme=midnight-purple)](https://github.com/Professor-codes/github-readme-stats)
+### 🔭 Programming languages and technologies:
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Professor-codes&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 
 ### 🦾 Documenting my journey:
+<br>
+<div align="center"> 
+  <a href="mailto:sahiillx02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=aqua" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-sumesara-6a06b1294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FC6736&color=1F2544" target="_blank" />
+  </a>
+  <a href="/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=6D9886&color=393E46" target="_blank" />
+  </a>
+</div>
+
 <p align ="center">
   <a href="https://wa.me/6355658206" role="whatsapp">
-  	<img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white&color=blueviolet" />
+  	<img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=E5D283&color=213555" />
   </a>
   <a href="https://github.com/Professor-codes/" target="_blank">
-    	<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    	<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=purple&color=F5F5F5" />
   </a>
   <a href="https://codepen.io/Professor-codes/" target="_blank">
-	<img alt="Codepen" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+	<img alt="Codepen" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=F0ECE5&color=31304D" />
   </a>
   <a href="https://twitter.com/Professor_cods" role="twitter">
-  	<img src="https://img.shields.io/badge/-twitter-14a800?style=for-the-badge&logo=twitter&logoColor=white&color=blueviolet" />
+  	<img src="https://img.shields.io/badge/-twitter-14a800?style=for-the-badge&logo=twitter&logoColor=31304D&color=B6BBC4" />
   </a>
 </p>
 
-<br><h2 align="center"> Languages and Tools ⚙️ </h2><br> 
+<br><h2 align="center"> Languages and Tools ⚙️ </h2><br>   
 
 <div align="center">
     <span align="center" width="96">
@@ -96,7 +111,7 @@
 <br><br>
 
 ### 📑 Stats
-![Sahil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Professor-codes&show_icons=true&theme=midnight-purple)
+<img width=420 src="https://github-readme-stats-salesp07.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
  
 ### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
