@@ -1,5 +1,3 @@
-
-
 <h1> Hello  &lt;World /&gt; 🚀 </h1>
 
 <h6>{ Sahil } => ( a 21 year old tech freak. )</h6>
