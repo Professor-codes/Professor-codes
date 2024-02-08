@@ -1,3 +1,5 @@
+
+
 <h1> Hello  &lt;World /&gt; 🚀 </h1>
 
 <h6>{ Sahil } => ( a 21 year old tech freak. )</h6>
@@ -111,7 +113,10 @@
 <br><br>
 
 ### 📑 Stats
+<img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Professor-codes&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
+
 <img width=420 src="https://github-readme-stats-salesp07.vercel.app/api?username=Professor-codes&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
+
  
 ### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
