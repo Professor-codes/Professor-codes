@@ -10,7 +10,6 @@
 ### 🔭 Programming languages and technologies:
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Professor-codes&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-
 ### 🦾 Documenting my journey:
 <br>
 <div align="center"> 
@@ -119,15 +118,22 @@
 ### 🎮 My contributions! Whose snake is this!? 
 ![Contribution grid snake animation](https://user-images.githubusercontent.com/126326997/229101655-58976baa-273d-4928-a112-fff501bcfcc2.svg)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Professor-codes/count.svg" />
+</p>
+<br>
+
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Professor-codes&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
-<details>
+<details align="center">
   <summary>Profile Views ⭕</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Professor-codes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Professor-codes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
 </details>
 
 #
