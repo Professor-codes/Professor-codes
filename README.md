@@ -8,9 +8,7 @@
 - Arduino and AI (on my free time)
 
 ### 🔭 Programming languages and technologies:
-<a href="https://github.com/Professor-codes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Professor-codes&layout=compact&theme=midnight-purple&langs_count=8&card_width=320" />
-</a>
 
 ### 🦾 Documenting my journey:
 <br>
