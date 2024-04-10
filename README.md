@@ -2,12 +2,10 @@
 
 <h6>{ Sahil } => ( a 21 year old tech freak. )</h6>
 
-### 💻 Software Engineer at WTS
-
 ### 🧑🏻‍💻 Current plans and projects I am working on:
-- AutoFlax and XioNexus
-- Web Development and e-commerce projects 
-- Arduino and AI (on my free time)
+- Xio Nexus and EDent
+- React and Blockchain
+- AI (on my free time)
 
 ### 🔭 Programming languages and technologies:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Professor-codes&layout=compact&theme=midnight-purple&langs_count=8&card_width=320" />
