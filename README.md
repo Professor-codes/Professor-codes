@@ -16,7 +16,7 @@
   <a href="mailto:sahiillx02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=aqua" />
   </a>
-  <a href="https://www.linkedin.com/in/sahil-sumesara-6a06b1294/" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FC6736&color=1F2544" target="_blank" />
   </a>
   <a href="/" target="_blank">
