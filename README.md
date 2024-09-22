@@ -34,7 +34,7 @@
   <a href="https://codepen.io/Professor-codes/" target="_blank">
 	<img alt="Codepen" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=F0ECE5&color=31304D" />
   </a>
-  <a href="https://twitter.com/Professor_cods" role="twitter">
+  <a href="https://twitter.com/HeiProfessorx" role="twitter">
   	<img src="https://img.shields.io/badge/-twitter-14a800?style=for-the-badge&logo=twitter&logoColor=31304D&color=B6BBC4" />
   </a>
 </p>
