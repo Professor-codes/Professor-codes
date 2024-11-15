@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/sahil-sumesara-950933337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FC6736&color=1F2544" target="_blank" />
   </a>
-  <a href="/" target="_blank">
+  <a href="https://professorcodes.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=6D9886&color=393E46" target="_blank" />
   </a>
 </div>
