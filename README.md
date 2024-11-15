@@ -16,7 +16,7 @@
   <a href="mailto:sahiillx02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=aqua" />
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-sumesara-950933337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FC6736&color=1F2544" target="_blank" />
   </a>
   <a href="/" target="_blank">
@@ -34,7 +34,7 @@
   <a href="https://codepen.io/Professor-codes/" target="_blank">
 	<img alt="Codepen" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=F0ECE5&color=31304D" />
   </a>
-  <a href="https://twitter.com/HeiProfessorx" role="twitter">
+  <a href="https://x.com/xprofessorcod" role="twitter">
   	<img src="https://img.shields.io/badge/-twitter-14a800?style=for-the-badge&logo=twitter&logoColor=31304D&color=B6BBC4" />
   </a>
 </p>
