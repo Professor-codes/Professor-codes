@@ -3,7 +3,7 @@
 <h6>{ Sahil } => ( a 21 year old tech freak. )</h6>
 
 ### 🧑🏻‍💻 Current plans and projects I am working on:
-- Xio Nex and EDent
+- Pilot.ai
 - React and Blockchain
 - AI (on my free time)
 
